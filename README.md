@@ -1,5 +1,4 @@
 # ClearCellGame
-Maximize the number of cleared cells on a board. 
-
-Each cell cleared represents a point. If a cell is cleared, a row maybe cleared and the program will collapse those rows. 
+Program to clear cells on a board. 
+A point is given for every cleared cell. 
 The game is over when the last board row is not empty.  
